@@ -1,2 +1,7 @@
-# Global-AI-Hub-Machine-Learning-Bootcamp
-This repository contains the final project for the One (1) month International Machine Learning Bootcamp by Global AI Hub.
+## Global-AI-Hub-Machine-Learning-Bootcamp
+This repository contains the final project for the International Machine Learning Bootcamp by [Global AI Hub](https://www.globalaihub.com).
+
+### Team Members:
+* [Tito Osadebey](https://github.com/titoausten)
+* [Hammed Arogundade](https://github.com/ahmeedaro)
+* [Waqar Ahmed](https://github.com/waqarahmed6095)
